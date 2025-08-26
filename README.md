@@ -1,6 +1,6 @@
 <!-- 🌸 HEADER -->
-<h1 align="center">✨ Raditya Bintang Wijaya ✨</h1>
-<h3 align="center">🌿 Student at Taruna Bhakti | Web & Mobile Dev Enthusiast 🌿</h3>
+<h1 align="center"> Raditya Bintang Wijaya </h1>
+<h3 align="center"> Student at Taruna Bhakti | Web & Mobile Dev Enthusiast </h3>
 
 ---
 
@@ -43,14 +43,3 @@
 </p>
 
 ---
-
-## ✍️ Aesthetic Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=omni" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rdtyabntng&icon=5&color=8&bg=ffe4e1" />
-</p>
