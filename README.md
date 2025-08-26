@@ -1,5 +1,5 @@
 <!-- 🌸 HEADER -->
-<h1 align="center">🌿 Raditya Bintang Wijaya 🌿</h1>
+<h1 align="center"> Raditya Bintang Wijaya </h1>
 <h3 align="center">Student at Taruna Bhakti | Web & Mobile Dev Enthusiast ✨</h3>
 
 ---
